@@ -3,7 +3,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "bundle exec jekyll serve"
+    "start": "bundle exec jekyll serve",
+    "open": "open https://walkward.github.io/amrap/",
+    "merge": "cd ../ ; ./bin/getComponents.sh ; cd jekyll"
   },
   "repository": {
     "type": "git",

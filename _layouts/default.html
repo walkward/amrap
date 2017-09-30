@@ -20,13 +20,30 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="cleartype" content="on">
 
+    <link rel="stylesheet" href="{{ site.data.shopify.css }}">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+    <!--[if (gt IE 9)|!(IE)]><!--><script src="{{ site.data.shopify.javascript }}" defer="defer"></script><!--<![endif]-->
+    <!--[if lt IE 9]><script src="{{ site.data.shopify.javascript }}"></script><![endif]-->
+
   </head>
 
-  <body id="js-body">
+  <body id="{{ page.title | slugify }}" class="template-{{ page.title | slugify }}">
+    <a class="in-page-link visually-hidden skip-link" href="#MainContent">Skip to content</a>
     {% include browser-upgrade.html %}
 
-    <div id="page-wrapper">
-      {{ content }}
+    <div class="off-canvas-content" data-off-canvas-content>
+      <a class="in-page-link visually-hidden skip-link" href="#MainContent">{{ 'general.accessibility.skip_to_content' | t }}</a>
+
+      {% include header.html %}
+
+      <main role="main" id="MainContent" data-page="">
+        {{ content }}
+      </main>
+
+      {% include footer.html %}
+
     </div>
 
   </body>
