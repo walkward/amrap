@@ -1,0 +1,16 @@
+{% if page.author %}
+  {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.owner %}
+{% endif %}
+
+<div>
+	<img src="http://via.placeholder.com/150X150?text=user" alt="{{ author.name }}">
+</div><!-- ./author-image -->
+<div>
+	<h3>Written by:
+    {% if author.web %}
+    <a href="{{ author.web }}" itemprop="author">{{ author.name }}</a>
+    {% else %}
+    <span itemprop="author">{{ author.name }}</span>{% endif %}
+  </h3>
+	<p>{{ author.bio }}</p>
+</div><!-- ./author-content -->

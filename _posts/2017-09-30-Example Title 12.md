@@ -1,10 +1,8 @@
 ---
-date: 2017-09-29T23:52:26.495Z
-layout: default
-"": ""
-image:
-    feature: 'http://via.placeholder.com/1200X400/'
-    thumb: 'http://via.placeholder.com/400X300/'
+date: '2017-09-29T23:52:26.495Z'
+layout: article
+image: http://via.placeholder.com/1200X400/
+thumb: http://via.placeholder.com/400X300/
 ---
 To optimize your downtime, you also need to take specific steps to heal your body and get yourself ready for the next big push.
 
