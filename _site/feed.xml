@@ -1,5 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-09-29T21:20:25-06:00</updated><id>http://localhost:4000/</id><title type="html">AMRAP Nutrition</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</subtitle><entry><title type="html">Example title 8</title><link href="http://localhost:4000/2017/09/29/Example-Title-8.html" rel="alternate" type="text/html" title="Example title 8" /><published>2017-09-29T17:52:26-06:00</published><updated>2017-09-29T17:52:26-06:00</updated><id>http://localhost:4000/2017/09/29/Example%20Title%208</id><content type="html" xml:base="http://localhost:4000/2017/09/29/Example-Title-8.html">&lt;p&gt;To optimize your downtime, you also need to take specific steps to heal your body and get yourself ready for the next big push.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-10-12T07:41:53-06:00</updated><id>http://localhost:4000/</id><title type="html">AMRAP Nutrition</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2017/09/29/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2017-09-29T18:05:52-06:00</published><updated>2017-09-29T18:05:52-06:00</updated><id>http://localhost:4000/jekyll/update/2017/09/29/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/09/29/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Example title 8</title><link href="http://localhost:4000/2017/09/29/Example-Title-8.html" rel="alternate" type="text/html" title="Example title 8" /><published>2017-09-29T17:52:26-06:00</published><updated>2017-09-29T17:52:26-06:00</updated><id>http://localhost:4000/2017/09/29/Example%20Title%208</id><content type="html" xml:base="http://localhost:4000/2017/09/29/Example-Title-8.html">&lt;p&gt;To optimize your downtime, you also need to take specific steps to heal your body and get yourself ready for the next big push.&lt;/p&gt;
 
 &lt;p&gt;Here are some guidelines for maximizing your recovery and athletic performance:&lt;/p&gt;
 
@@ -736,98 +748,6 @@
 &lt;p&gt;Tip:&lt;/p&gt;
 
 &lt;p&gt;Even if you’re an experienced athlete, practicing the “4-7-8” exercise will boost your performance and enable you to go beyond what you thought possible.&lt;/p&gt;</content><author><name></name></author><summary type="html">To optimize your downtime, you also need to take specific steps to heal your body and get yourself ready for the next big push.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://via.placeholder.com/1200X400/" /></entry><entry><title type="html">Example title 14</title><link href="http://localhost:4000/2017/09/29/Example-Title-14.html" rel="alternate" type="text/html" title="Example title 14" /><published>2017-09-29T17:52:26-06:00</published><updated>2017-09-29T17:52:26-06:00</updated><id>http://localhost:4000/2017/09/29/Example%20Title%2014</id><content type="html" xml:base="http://localhost:4000/2017/09/29/Example-Title-14.html">&lt;p&gt;To optimize your downtime, you also need to take specific steps to heal your body and get yourself ready for the next big push.&lt;/p&gt;
-
-&lt;p&gt;Here are some guidelines for maximizing your recovery and athletic performance:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Night Night&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;In general, you should try to get at least 7.5 hours of sleep a night, although younger athletes may need up to 9 hours. We can’t express how important a good night’s sleep is to a recovering athlete. This is when your body heals, repairs and detoxes.&lt;/p&gt;
-
-&lt;p&gt;Tips:&lt;/p&gt;
-
-&lt;p&gt;Use a &lt;a href=&quot;https://www.amazon.com/gp/product/B01K9S260E/ref=as_li_tl?ie=UTF8&amp;amp;tag=a0d30946-20&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;linkCode=as2&amp;amp;creativeASIN=B01K9S260E&amp;amp;linkId=1056efde1b7b26265caa624f08c9cac9&quot;&gt;Fitbit Charge 2&lt;/a&gt; to monitor your sleep. It can help you quickly identify what helps and hampers your sleep, so that you can remedy any problems.&lt;/p&gt;
-
-&lt;p&gt;Supplements such as &lt;a href=&quot;https://www.amrapnutrition.com/products/zm-plus/&quot;&gt;ZM Plus&lt;/a&gt; help promote deep REM sleep to ensure that you get enough high quality rest to recover, function and thrive the next day.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Your Diet&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;More important than what you eat immediately after your training session is the quality of food you eat throughout the day. Avoid all processed sugars, limit caffeine (and other stimulants) and control insulin levels by eating fats and protein with every meal.&lt;/p&gt;
-
-&lt;p&gt;Tips:&lt;/p&gt;
-
-&lt;p&gt;Buy a high-quality &lt;a href=&quot;https://www.amazon.com/gp/product/B000GIGZXM/ref=as_li_tl?ie=UTF8&amp;amp;tag=a0d30946-20&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;linkCode=as2&amp;amp;creativeASIN=B000GIGZXM&amp;amp;linkId=55dfa5e49fd54b289d10dfab5d64ef91&quot;&gt;Blendtec blender&lt;/a&gt; and fall in love with smoothies! Many athletes “supercharge” them with our Super Berries or Supergreens powders.&lt;/p&gt;
-
-&lt;p&gt;Help your body convert fat into usable energy by adding coconut &lt;a href=&quot;https://www.amrapnutrition.com/products/mct-powder/&quot;&gt;MCT powder&lt;/a&gt; to your morning coffee. Blend and enjoy the benefits of ketosis.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Dehydration&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Dehydration can damage muscles and significantly reduce the body’s ability to repair itself. Make sure you get plenty of water throughout the day. To ensure you always have water available, we recommend ordering two or three of these Nalgene water bottles.&lt;/p&gt;
-
-&lt;p&gt;Tips:&lt;/p&gt;
-
-&lt;p&gt;Make sure you’re getting enough high-quality &lt;a href=&quot;https://www.amazon.com/gp/product/B00IZL255O/ref=as_li_tl?ie=UTF8&amp;amp;tag=a0d30946-20&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;linkCode=as2&amp;amp;creativeASIN=B00IZL255O&amp;amp;linkId=b659cd3e5dfd2bb35acc5eed3b346f91&quot;&gt;Himalayan sea salt&lt;/a&gt; throughout the day to improve your electrolyte balance.&lt;/p&gt;
-
-&lt;p&gt;Help detoxify your system by squeezing some lemon juice into your water first thing in the morning – before breakfast, coffee or even your shower.&lt;/p&gt;
-
-&lt;p&gt;Endurance athletes can see an immediate boost in recovery and performance by drinking nitrate-rich &lt;a href=&quot;https://www.amrapnutrition.com/products/beet-nitrates/&quot;&gt;beet juice&lt;/a&gt; 30 minutes prior to a workout.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Protein&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Athletes need the amino acids found in protein. It’s vital to build, repair and heal muscles after a strenuous workout. The best sources of protein are high-quality grass-fed or wild-caught meats.&lt;/p&gt;
-
-&lt;p&gt;Tips:&lt;/p&gt;
-
-&lt;p&gt;Take a &lt;a href=&quot;https://www.amrapnutrition.com/products/glutamine/&quot;&gt;Glutamine&lt;/a&gt; supplement. Glutamine is a natural amino acid found in meats, eggs and kale that speeds up recovery and reduces muscle soreness. Because it’s hard to get enough from diet alone, a supplement can make a big difference.&lt;/p&gt;
-
-&lt;p&gt;Try our &lt;a href=&quot;https://www.amrapnutrition.com/products/bcaa/&quot;&gt;BCAA powder&lt;/a&gt; – it’s super-high-quality, vegan-friendly and unflavored. Take it before your workout to recover faster and build stronger, denser muscles.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Stretching&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;As an athlete, you need maximum flexibility in order to get the most out of your workouts and recovery. Stretching is also the best way to prevent injury.&lt;/p&gt;
-
-&lt;p&gt;Tip:&lt;/p&gt;
-
-&lt;p&gt;Stretch at least 10 minutes after every workout, using “long-hold” stretches (&lt;a href=&quot;https://www.amazon.com/gp/product/B01A4CG3PE/ref=as_li_tl?ie=UTF8&amp;amp;tag=a0d30946-20&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;linkCode=as2&amp;amp;creativeASIN=B01A4CG3PE&amp;amp;linkId=5403df8997109ff7bea1abc10166b16f&quot;&gt;these straps help&lt;/a&gt;). Before the workout, do more active stretches in which you hold positions for just a moment.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Smash-N-Mash&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Much of the soreness that accompanies exercise results from the muscles and fascia – the connective tissue that runs through the body – becoming knotted. Foam rolling, or self-myofascial release, is an essential part of recovery, regardless of your athletic level.&lt;/p&gt;
-
-&lt;p&gt;Tip:&lt;/p&gt;
-
-&lt;p&gt;This is an &lt;a href=&quot;https://www.amazon.com/gp/product/B00XM2MRGI/ref=as_li_tl?ie=UTF8&amp;amp;tag=a0d30946-20&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;linkCode=as2&amp;amp;creativeASIN=B00XM2MRGI&amp;amp;linkId=a4052bc6cc9c37d8fe22486c3d784ee9&quot;&gt;inexpensive foam roller&lt;/a&gt; that every household should own. Also, lacrosse balls are perfect for getting deep into thick muscles.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;HRV Score&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;HRV (heart rate variability) is a non-invasive and simple way to check in with your body to see what level of stress you can endure. By taking a daily HRV reading, you can better understand how hard you should push yourself on any given day.&lt;/p&gt;
-
-&lt;p&gt;Tip:&lt;/p&gt;
-
-&lt;p&gt;We recommend the free “Elite HRV” app and &lt;a href=&quot;https://www.amazon.com/gp/product/B007S088F4/ref=as_li_tl?ie=UTF8&amp;amp;tag=a0d30946-20&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;linkCode=as2&amp;amp;creativeASIN=B007S088F4&amp;amp;linkId=b30c5bda3f814ccbd9c9f60d4fe87dbc&quot;&gt;this Bluetooth heart-rate monitor&lt;/a&gt;, which is sensitive enough to measure your HRV.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Active Recovery&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Rest days provide a necessary break from the strenuous exertions of training. While you shouldn’t push yourself on your off days, some light exercise like taking a walk or an easy bike ride will promote blood flow and help speed up the recovery process.&lt;/p&gt;
-
-&lt;p&gt;Tip:&lt;/p&gt;
-
-&lt;p&gt;Get an &lt;a href=&quot;https://www.amazon.com/gp/product/B00NB86OYE/ref=as_li_tl?ie=UTF8&amp;amp;tag=a0d30946-20&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;linkCode=as2&amp;amp;creativeASIN=B00NB86OYE&amp;amp;linkId=0b19120ab02641d4504556ebde2a1b75&quot;&gt;audiobook account at audible.com&lt;/a&gt; to help pass the time and nourish your brain during “active recovery” days.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Relax Your Mind&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Chronic stress can aggravate inflammation, negatively affect your sleep, and impede your body’s ability to recover. To help you bounce back faster and become more resilient, meditation is a great practice. Mindfulness meditation is the go-to form of meditation for athletes.&lt;/p&gt;
-
-&lt;p&gt;Tip:&lt;/p&gt;
-
-&lt;p&gt;Find a mindfulness meditation coach near you, or download the free iPhone “Headspace” app.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Take a Deep Breath&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The “4-7-8” technique is a simple breathing exercise that relaxes your body and calms your autonomic nervous system. Simply breathe in for 4 seconds, hold for 7 seconds, and breathe out for 8 seconds. Do this for as little at 2 minutes and you will feel like a different person.&lt;/p&gt;
-
-&lt;p&gt;Tip:&lt;/p&gt;
-
-&lt;p&gt;Even if you’re an experienced athlete, practicing the “4-7-8” exercise will boost your performance and enable you to go beyond what you thought possible.&lt;/p&gt;</content><author><name></name></author><summary type="html">To optimize your downtime, you also need to take specific steps to heal your body and get yourself ready for the next big push.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://via.placeholder.com/1200X400/" /></entry><entry><title type="html">Example title 13</title><link href="http://localhost:4000/2017/09/29/Example-Title-13.html" rel="alternate" type="text/html" title="Example title 13" /><published>2017-09-29T17:52:26-06:00</published><updated>2017-09-29T17:52:26-06:00</updated><id>http://localhost:4000/2017/09/29/Example%20Title%2013</id><content type="html" xml:base="http://localhost:4000/2017/09/29/Example-Title-13.html">&lt;p&gt;To optimize your downtime, you also need to take specific steps to heal your body and get yourself ready for the next big push.&lt;/p&gt;
 
 &lt;p&gt;Here are some guidelines for maximizing your recovery and athletic performance:&lt;/p&gt;
 
