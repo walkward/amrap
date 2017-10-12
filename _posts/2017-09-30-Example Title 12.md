@@ -1,9 +1,13 @@
----
-date: 2017-09-29T23:52:26.495Z
-layout: article
-image: 'http://via.placeholder.com/1200X400/'
-thumb: 'http://via.placeholder.com/400X300/'
----
++++
+changefreq = "\"monthly\""
+date = 2017-09-29T23:52:26Z
+exclude = "\"no\""
+image = "http://via.placeholder.com/1200X400/"
+lastmod = "2017-09-30"
+layout = "article"
+priority = "0.7"
+thumb = "http://via.placeholder.com/400X300/"
++++
 To optimize your downtime, you also need to take specific steps to heal your body and get yourself ready for the next big push.
 
 Here are some guidelines for maximizing your recovery and athletic performance:
