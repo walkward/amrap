@@ -1,3 +1,8 @@
+---
+title: Example title 13
+date: 2017-09-30 00:00:00 Z
+---
+
 +++
 changefreq = "\"monthly\""
 date = 2017-09-29T23:52:26Z
