@@ -1,10 +1,79 @@
 ---
 layout: default
-title: Home
+title: Home | Clean Fuel For Your Lifestyle
+description:
+image:
+redirect_from:
+  - /post/123456789/
 permalink: /
 ---
-<div class="row">
-  <div class="column small-12">
-    <h1>Sample text</h1>
+<div class="row expanded banner">
+  <div class="banner__wrapper small-12 column index-banner__full-width small-aspect-1-1">
+    <img data-interchange="[//cdn.shopify.com/s/files/1/2349/6599/files/home-banner-img-01_fc737021-bce0-46fe-b2a8-32078eff5a65_400x400_crop_center.progressive.png.jpg?v=1508070105, small], [//cdn.shopify.com/s/files/1/2349/6599/files/home-banner-img-01_fc737021-bce0-46fe-b2a8-32078eff5a65_1500x800_crop_center.progressive.png.jpg?v=1508070105, medium]"
+      alt="Blog Featured Post" >
+    <div class="banner__text flex-container flex-dir-column align-center-middle">
+      <a href="/collections/all-products">
+        <div class="mega-title text-center white-color">
+          <strong>CLEAN FUEL <br>FOR YOUR LIFESTYLE</strong>
+        </div>
+      </a><a href="/collections/all-products" class="button hollow white"><span>FEATURE POST TITLE</span></a></div>
   </div>
 </div>
+
+<div class="callout large stripped">
+  <div class="row column">
+    <div class="column small-12 large-8 large-offset-2">
+      <br><br><br>
+      <div class="h3 text-center secondary-color">THIS POST TITLE</div>
+      <p class="lead text-center">This type of post would be best told with multiple images, such as something about an event or a recipe thats great for certain diets or something like that. Example below - 5 great foods for endurance or something like that.</p>
+      <br><br><br>
+    </div>
+  </div>
+</div>
+
+<div class="row callout stripped large no-padding-top">
+  <div class="column small-12 large-4">
+    <img src="http://via.placeholder.com/336X430/" alt="">
+  </div>
+  <div class="column small-12 large-4">
+    <img src="http://via.placeholder.com/336X260/" alt="">
+    <br><br>
+    <img src="http://via.placeholder.com/336X260/" alt="">
+  </div>
+  <div class="column small-12 large-4">
+    <img src="http://via.placeholder.com/336X430/" alt="">
+  </div>
+</div>
+
+<div class="secondary-bg callout large no-border no-margin-bottom">
+  <div class="row column white-color">
+    <div class="column small-12 large-8 large-offset-2">
+      <br><br><br>
+      <div class="h3 text-center">THIS POST TITLE</div>
+      <p class="lead white-color text-center">This type of post would be best told with multiple images, such as something about an event or a recipe thats great for certain diets or something like that. Example below - 5 great foods for endurance or something like that.</p>
+      <br><br><br>
+    </div>
+  </div>
+</div>
+
+<div class="row expanded banner">
+  <div class="banner__wrapper small-12 column index-banner__full-width small-aspect-1-1">
+    <img data-interchange="[//cdn.shopify.com/s/files/1/2349/6599/files/home-banner-img-01_fc737021-bce0-46fe-b2a8-32078eff5a65_400x400_crop_center.progressive.png.jpg?v=1508070105, small], [//cdn.shopify.com/s/files/1/2349/6599/files/home-banner-img-01_fc737021-bce0-46fe-b2a8-32078eff5a65_1500x800_crop_center.progressive.png.jpg?v=1508070105, medium]"
+      alt="Blog Featured Post" >
+    <div class="banner__text flex-container flex-dir-column align-center-middle">
+      <a href="/collections/all-products" class="button hollow white large"><span>FEATURE POST TITLE</span></a>
+    </div>
+  </div>
+</div>
+
+<br><br><br>
+
+<div class="row">
+  {% for post in site.posts limit: 6 %}
+  <div class="column small-12 medium-6 banner">
+    {% include post-grid-item.html %}
+  </div>
+  {% endfor %}
+</div>
+
+{% include social-icons.html %}
